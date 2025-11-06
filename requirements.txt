@@ -7,3 +7,5 @@ streamlit
 keras
 tensorboard
 ipykernel
+tensorflow-cpu==2.13.0
+
